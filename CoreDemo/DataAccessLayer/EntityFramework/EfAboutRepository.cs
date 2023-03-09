@@ -9,7 +9,11 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EntityFramework
 {
-    public class EfAboutRepository : GenericRepository<About>, IAboutDal
-    {
-    }
+	public class EfAboutRepository : GenericRepository<About>, IAboutDal
+	{
+		public List<Blog> GetListWithCategpry()
+		{
+			throw new NotImplementedException();
+		}
+	}
 }
