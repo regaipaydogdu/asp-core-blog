@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "B1cZqVYkU3Ex6KPNQm6iFMc9fdawX95/hQ9Mb+u9XFKfeYVfPqAyNolMGYzS0epCfQhy2F4tkbwSKmZzrQEbdQ==",
+  "dgSpecHash": "CpRMBu0mZ6mR3xFullTKIgUv3TdwOcfh/u+RBdAZxt4PwIoLpXEwHhjDYmyy5wmA8wpscrnFDQlj3LdqDdtFIQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Regaip\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Regaip\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Regaip\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Regaip\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Regaip\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\Regaip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Regaip\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Regaip\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
