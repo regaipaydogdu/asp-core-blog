@@ -21,7 +21,7 @@ namespace BusinessLayer.Concrete
 
 		public void AddComment(Comment comment)
 		{
-			throw new NotImplementedException();
+			_commentdal.Insert(comment);
 		}
 
 		public Comment GetById(int id)
