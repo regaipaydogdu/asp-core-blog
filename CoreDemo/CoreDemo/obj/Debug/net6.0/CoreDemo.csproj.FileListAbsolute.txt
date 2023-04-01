@@ -390,3 +390,13 @@ C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
 C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Projects\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\X.PagedList.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\ClosedXML.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Irony.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\XLParser.dll
