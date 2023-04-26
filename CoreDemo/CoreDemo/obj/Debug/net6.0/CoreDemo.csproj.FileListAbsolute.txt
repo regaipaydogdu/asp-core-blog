@@ -400,3 +400,13 @@ C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Irony.dll
 C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\SixLabors.Fonts.dll
 C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\XLParser.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogApiDemo.deps.json
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogApiDemo.runtimeconfig.json
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogApiDemo.exe
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogApiDemo.dll
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogApiDemo.pdb
+C:\Projects\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

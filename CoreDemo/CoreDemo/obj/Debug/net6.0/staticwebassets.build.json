@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "x1CgF/IzSa/AmnQe0LS/+3P+4WiYBeOJM6rraMQQ3PA=",
+  "Hash": "WLbIVTJVAf+n4dRCHP7ZT9wq89DV9QqTIZjtTxIF1SY=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\CoreDemo\\BlogApiDemo\\BlogApiDemo.csproj",
+      "Version": 2,
+      "Source": "BlogApiDemo",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "CoreDemo\\wwwroot",
